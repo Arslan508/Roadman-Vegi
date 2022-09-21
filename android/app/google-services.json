@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918324243000",
+    "project_id": "roadman-vegi-8e1ab",
+    "storage_bucket": "roadman-vegi-8e1ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918324243000:android:daafcc6dbc6774f91794cd",
+        "android_client_info": {
+          "package_name": "com.example.roadman_vegi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918324243000-7hbko6kgum45n8lqa0m9jcse0e7491ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roadman_vegi",
+            "certificate_hash": "6e601471df30c0ede1206f17b0d71f9cde9095f4"
+          }
+        },
+        {
+          "client_id": "918324243000-qh1jnkshleps0k7r9kbo239006t4pqc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0zHyRheycqX2BTqDMQLZCVTmBe_XxnX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918324243000-qh1jnkshleps0k7r9kbo239006t4pqc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
